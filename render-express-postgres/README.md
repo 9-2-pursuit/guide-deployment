@@ -18,7 +18,7 @@ Finally, your apps will "go to sleep" when they are not actively used. So when y
 
 ## Start with the template repository
 
-Select `use this template` from the [Pern final project template](https://github.com/joinpursuit/template-pern-project) on GitHub to get started on your new project. You should be putting this template in your personal GitHub account and not in an organization. The repository should be public. This repository has the correct file structure and configurations to deploy the application to Render as is.
+Select `use this template` from the [Pern final project backend template](https://github.com/9-2-pursuit/template-pern-project-backend) on GitHub to get started on your new project. You should be putting this template in your personal GitHub account and not in an organization. The repository should be public. This repository has the correct file structure and configurations to deploy the application to Render as is.
 
 Get this app to run locally to test that it works. If it does not work locally, it will not work online. Follow the instructions in the application's `README.md` file.
 
@@ -32,7 +32,7 @@ Select `new` (there should be a button along the top of the site):
 
 - Choose `new web service`.
 - Connect a repository
-- Use your version of the PERN Final Project Template (must be public).
+- Use your version of the PERN Final Project backend Template (must be public).
 
 You will then be taken to a new view. You must set up each field correctly.
 
@@ -47,7 +47,7 @@ You will then be taken to a new view. You must set up each field correctly.
 - Select the free plan
 - Press the button to build your app
 
-[New Web Service UI with configuration](https://github.com/joinpursuit/pern-final-project-template)
+[New Web Service UI with configuration](https://github.com/9-2-pursuit/template-pern-project-backend)
 
 Watch your build. Note this build will take a long time (it can take more than 10 minutes).
 
